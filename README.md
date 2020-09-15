@@ -3,7 +3,7 @@
 * WhatsApp commercial
 * Facebook Messanger commercial
 * Zulip, Apache License, Python, supports topics/threads, PostgreSQL
-* [Spectrum](https://spectrum.chat/), BSD License, Node.js, supports threaded discussion, RethinkDB
+* Spectrum, BSD License, Node.js, supports threaded discussion, RethinkDB
 * Mattermost AGPL
 * Discord not open source
 * Rocket.chat, open source
