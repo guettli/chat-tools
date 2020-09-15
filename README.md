@@ -10,6 +10,7 @@
 * Signal, open source 
 * Threema, commercial
 * Telegram, commercial
+* matrix, open source, focus on decentral communication
 
 
 Related: https://softwarerecs.stackexchange.com/questions/75118/alternative-to-slack
