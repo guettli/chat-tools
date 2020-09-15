@@ -6,7 +6,10 @@
 * [Spectrum](https://spectrum.chat/), BSD License, Node.js, supports threaded discussion, RethinkDB
 * Mattermost AGPL
 * Discord not open source
-* Rocket.chat 
+* Rocket.chat, open source
+* Signal, open source 
+* Threema, commercial
+* Telegram, commercial
 
 
 Related: https://softwarerecs.stackexchange.com/questions/75118/alternative-to-slack
