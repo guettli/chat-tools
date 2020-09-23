@@ -11,6 +11,7 @@
 * Threema, commercial
 * Telegram, commercial
 * matrix, open source, focus on decentral communication
+* Wire, AGPL server, voice, video ...
 
 
 Related: https://softwarerecs.stackexchange.com/questions/75118/alternative-to-slack
