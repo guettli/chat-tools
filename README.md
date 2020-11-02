@@ -1,18 +1,25 @@
-# List of Chat Tools
+# List of Chat/Forum Tools
 
-* WhatsApp commercial
-* Facebook Messanger commercial
+Commercial
+
+* WhatsApp
+* Facebook Messanger
+* Discord not open source
+* Threema, commercial
+* Telegram, commercial
+
+Open Source
+
 * Zulip, Apache License, Python, supports topics/threads, PostgreSQL
 * Spectrum, BSD License, Node.js, supports threaded discussion, RethinkDB
 * Mattermost AGPL
-* Discord not open source
 * Rocket.chat, open source
 * Signal, open source 
-* Threema, commercial
-* Telegram, commercial
 * matrix, open source, focus on decentral communication
 * Wire, AGPL server, voice, video ...
 * Bootcamp, MIT, no progress
+* Discourse (more Forum than Chat)
+
 
 Related: https://softwarerecs.stackexchange.com/questions/75118/alternative-to-slack
 
